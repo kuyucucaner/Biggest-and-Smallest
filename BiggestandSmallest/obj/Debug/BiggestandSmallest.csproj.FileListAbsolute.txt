@@ -1,0 +1,10 @@
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\bin\Debug\BiggestandSmallest.exe.config
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\bin\Debug\BiggestandSmallest.exe
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\bin\Debug\BiggestandSmallest.pdb
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.csproj.AssemblyReference.cache
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.Form1.resources
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.Properties.Resources.resources
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.csproj.GenerateResource.cache
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.csproj.CoreCompileInputs.cache
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.exe
+C:\Users\tahac\source\repos\BiggestandSmallest\BiggestandSmallest\obj\Debug\BiggestandSmallest.pdb
